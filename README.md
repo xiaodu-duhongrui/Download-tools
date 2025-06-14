@@ -72,10 +72,6 @@ pip install PyQt5 requests
 pip install requests tqdm  
 使用方法
 
-GUI版本
-python downloader_gui.py  
-命令行版本
-python downloader_cli.py https://example.com/file.zip --threads 8 --path ./downloads  
 📝 项目特点
 
 • 🌐 支持HTTP/HTTPS协议下载
@@ -104,4 +100,4 @@ MIT License © 2025
 
 💬 联系与反馈
 
-如有问题或建议，欢迎在仓库提出Issue，或通过邮箱联系：your.email@example.com 📧
+如有问题或建议，欢迎在仓库提出Issue，或通过邮箱联系：zmjsjsg3@163.com📧
